@@ -33,8 +33,13 @@ That's it. Every `git push` to `main` republishes the site in about a minute.
 Your site is at:
 
 ```
-https://suvodeep90.github.io/suvodeep-sanchari/
+https://smajumder.us/suvodeep-sanchari/
 ```
+
+It uses `smajumder.us` because that custom domain is set on your personal
+site (`Suvodeep90.github.io`), and GitHub applies it to every Pages site on
+the account. The `suvodeep90.github.io/suvodeep-sanchari/` address redirects
+there.
 
 > **Tip:** if you name the repo `<your-username>.github.io`, the site lives at
 > the shorter `https://<your-username>.github.io/` instead.

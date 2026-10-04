@@ -3,7 +3,7 @@
 A wedding site for **December 11–14, 2026** at **Blue Cedar Lodge, Gatlinburg, Tennessee** —
 a weekend-long celebration in the Great Smoky Mountains. A Smoky Mountain sunset hero over a page drawn from the same indigo ridgeline.
 
-**Live site: https://suvodeep90.github.io/suvodeep-sanchari/**
+**Live site: https://smajumder.us/suvodeep-sanchari/**
 
 > **New here? Read [SETUP.md](SETUP.md).** It walks through publishing to GitHub Pages,
 > connecting the RSVP form, and filling in the remaining details.
